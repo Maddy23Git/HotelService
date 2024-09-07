@@ -1,0 +1,11 @@
+com\maddy\hotel\payload\ApiResponse.class
+com\maddy\hotel\exception\GlobalExceptionHandler.class
+com\maddy\hotel\entities\Rating.class
+com\maddy\hotel\controller\HotelController.class
+com\maddy\hotel\entities\User.class
+com\maddy\hotel\HotelServiceApplication.class
+com\maddy\hotel\exception\ResourceNotFoundException.class
+com\maddy\hotel\service\impl\HotelServiceImpl.class
+com\maddy\hotel\service\HotelService.class
+com\maddy\hotel\entities\Hotel.class
+com\maddy\hotel\repositories\HotelRepository.class
